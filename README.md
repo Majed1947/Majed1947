@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Majed1947
+- 👋 Hi, I’m Majed Ghasib 
 - 👀 I’m interested in learning from the great minds in this platform 
-- 🌱 I’m currently learning c++, c and Mips assambaly 
-- 💞️ I’m looking to collaborate on projects that make diferrince in people's lives 
+- 🌱 I’m currently learning c++, c and Mips assembly 
+- 💞️ I’m looking to collaborate on projects that make difference in people's lives 
 - 📫 How to reach me: Linkdin:  
 
 <!---
